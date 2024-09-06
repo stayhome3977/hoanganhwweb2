@@ -1,0 +1,25 @@
+body {
+    font-family: Arial, sans-serif;
+    background-color: #f0f0f0;
+}
+
+.Tieu_de {
+    color: blue;
+    font-size: 18 pt;
+    font-weight: bold;
+    font-family: Arial,san-serif;
+}
+
+.Noi_dung {
+    color: purple;
+    font-size: 14 pt;
+    font-weight: italic ;
+    font-family: Arial,san-serif;
+}
+.Sieu_lien_ket {
+    color: green;
+    font-size: 16 pt;
+    font-weight: italic ;
+    text-decoration:none;
+    font-family: Arial,san-serif;
+}
